@@ -1,16 +1,9 @@
 # relaxation_app
 
-A new Flutter project.
+В данном приложении применены List и ListView. Показана работа с пакетами Dart (пакеты just_audio, font_awesome_flutter). Создан Аудиоплеер (показана работа с контейнером и его свойствами).
+Применены null-safety и Error Catching. Примененый async await.
 
-## Getting Started
+This application uses List and ListView. Shows work with Dart packages (packages just_audio, font_awesome_flutter). The Audio Player has been created (work with the container and its properties is shown).
+Applied null-safety and Error Catching. Applied async await.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/ZeAs4c/relaxation_app/assets/59208681/c7570d26-55c5-4a61-bc17-2cb2c3b018bd)
